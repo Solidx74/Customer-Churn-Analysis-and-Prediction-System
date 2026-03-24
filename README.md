@@ -30,7 +30,9 @@ A web-based application that predicts **customer churn** using a **Machine Learn
 ## 📁 Folder Structure
 
 customer-churn-prediction/
-│
+
+
+
 ├─ app.py                   # Flask application
 
 ├─ model.sav                # Trained ML model (Pickle)
@@ -45,6 +47,7 @@ customer-churn-prediction/
 
 │
 ├─ templates/
+
 │   └─ home.html            # Flask HTML template
 
 │
