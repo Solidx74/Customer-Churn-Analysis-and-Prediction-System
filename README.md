@@ -32,14 +32,21 @@ A web-based application that predicts **customer churn** using a **Machine Learn
 customer-churn-prediction/
 │
 ├─ app.py                   # Flask application
+
 ├─ model.sav                # Trained ML model (Pickle)
+
 ├─ first_telc.csv           # Dataset (optional if large, can ignore in Git)
+
 ├─ requirements.txt         # Python dependencies
+
 ├─ README.md                # Project documentation
+
 ├─ .gitignore               # To ignore unwanted files
+
 │
 ├─ templates/
 │   └─ home.html            # Flask HTML template
+
 │
 └─ images/              	# Any images used in your UI
 
